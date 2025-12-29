@@ -1,0 +1,2 @@
+- Code is licensed under GNU Affero General Public License v3.0 (AGPL-3.0)
+- CAD and PCB files are licensed under CERN Open Hardware Licence Version 2 – Strongly Reciprocal (CERN-OHL-S-2.0)
