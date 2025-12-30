@@ -1,0 +1,28 @@
+{
+    "creators": [
+        {
+            "affiliation": "Openly Published Environmental Sensing (OPEnS) Lab, Department of Mechanical, Industrial, and Manufacturing Engineering, Oregon State University",
+            "name": "Jordan, Jack"
+        },
+	{
+            "affiliation": "Openly Published Environmental Sensing (OPEnS) Lab, Department of Electrical Engineering and Computer Science, Oregon State University",
+            "name": "Fitch, Reese"
+        },
+	{
+            "affiliation": "Openly Published Environmental Sensing (OPEnS) Lab, Department of Electrical Engineering and Computer Science, Oregon State University",
+            "name": "Belinga, Marc"
+        }
+    ],
+    "description": "Many environmental autosampler applications require accurate measurement of the liquid volume passed through each sample to properly characterize collected data. Conventional volumetric approaches, including timing-based methods and flowmeters, often suffer from limited accuracy, narrow flow rate ranges, high maintenance demands, or high costs. This work presents the TrueTip, a novel volumetric device utilizing a tipping bucket to address these issues. It is designed for in-situ filtration autosamplers, where sampled water must be expelled rather than stored. The TrueTip connects to autosampler outflow tubing, routing expelled water through a protective lid into the tipping mechanism. Bucket tips are detected by tipping bucket circuitry and conditioned by a debounce PCB, producing discrete pulses that are interpreted by autosampler control electronics as volumetric measurements. The hardware contains a field-deployable base, adjustable leveling mount, and circular bubble level to ensure consistent operation across varied terrain. Under specified test conditions, the TrueTip demonstrates an average volumetric error of 0.504%, supports flow rates from 0 to 800 mL/min, operates on soft or rocky terrain with inclines up to 15°, and safely ejects water under high-pressure conditions.\n\nLicensing:\n- Code is licensed under GNU Affero General Public License v3.0 (AGPL-3.0).\n- CAD and PCB files are licensed under CERN Open Hardware Licence Version 2 – Strongly Reciprocal (CERN-OHL-S-2.0)",
+    "keywords": [
+        "Tipping Bucket", 
+        "Autosampler", 
+        "Volume Measurement", 
+        "Environmental Instrumentation"
+    ],
+    "licenses": [
+	{"id": "AGPL-3.0"},
+	{"id": "CERN-OHL-S-2.0"}
+	],
+    "title": "TrueTip: Tipping-bucket volumetric module for in-situ filtration autosamplers"
+}
